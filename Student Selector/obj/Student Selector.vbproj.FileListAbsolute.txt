@@ -1,0 +1,26 @@
+\\RHS-APP\Students\cwise1795\Desktop\chandler.programmingI\Recreational\Student Selector\Student Selector\obj\Debug\Student Selector.exe
+\\RHS-APP\Students\cwise1795\Desktop\chandler.programmingI\Recreational\Student Selector\Student Selector\obj\Debug\Student Selector.xml
+\\RHS-APP\Students\cwise1795\Desktop\chandler.programmingI\Recreational\Student Selector\Student Selector\obj\Debug\Student Selector.pdb
+\\RHS-APP\Students\cwise1795\Desktop\chandler.programmingI\Recreational\Student Selector\Student Selector\obj\Debug\ResolveAssemblyReference.cache
+\\RHS-APP\Students\cwise1795\Desktop\chandler.programmingI\Recreational\Student Selector\Student Selector\obj\Debug\Student_Selector.frmMain.resources
+\\RHS-APP\Students\cwise1795\Desktop\chandler.programmingI\Recreational\Student Selector\Student Selector\obj\Debug\Student_Selector.Resources.resources
+\\RHS-APP\Students\cwise1795\Desktop\chandler.programmingI\Recreational\Student Selector\Student Selector\obj\Debug\Student Selector.vbproj.GenerateResource.Cache
+\\RHS-APP\Students\cwise1795\Desktop\chandler.programmingI\Recreational\Student Selector\Student Selector\bin\Debug\Student Selector.exe
+\\RHS-APP\Students\cwise1795\Desktop\chandler.programmingI\Recreational\Student Selector\Student Selector\bin\Debug\Student Selector.pdb
+\\RHS-APP\Students\cwise1795\Desktop\chandler.programmingI\Recreational\Student Selector\Student Selector\bin\Debug\Student Selector.xml
+\\RHS-APP\Students\cwise1795\Desktop\chandler.programmingI\Recreational\Student Selector\Student Selector\obj\Debug\Student_Selector.About.resources
+\\RHS-APP\Students\cwise1795\Desktop\chandler.programmingI\Recreational\Student Selector\Student Selector\bin\Release\Student Selector.exe
+\\RHS-APP\Students\cwise1795\Desktop\chandler.programmingI\Recreational\Student Selector\Student Selector\bin\Release\Student Selector.pdb
+\\RHS-APP\Students\cwise1795\Desktop\chandler.programmingI\Recreational\Student Selector\Student Selector\bin\Release\Student Selector.xml
+\\RHS-APP\Students\cwise1795\Desktop\chandler.programmingI\Recreational\Student Selector\Student Selector\obj\Release\ResolveAssemblyReference.cache
+\\RHS-APP\Students\cwise1795\Desktop\chandler.programmingI\Recreational\Student Selector\Student Selector\obj\Release\Student_Selector.About.resources
+\\RHS-APP\Students\cwise1795\Desktop\chandler.programmingI\Recreational\Student Selector\Student Selector\obj\Release\Student_Selector.frmMain.resources
+\\RHS-APP\Students\cwise1795\Desktop\chandler.programmingI\Recreational\Student Selector\Student Selector\obj\Release\Student_Selector.Resources.resources
+\\RHS-APP\Students\cwise1795\Desktop\chandler.programmingI\Recreational\Student Selector\Student Selector\obj\Release\Student Selector.vbproj.GenerateResource.Cache
+\\RHS-APP\Students\cwise1795\Desktop\chandler.programmingI\Recreational\Student Selector\Student Selector\obj\Release\Student Selector.exe
+\\RHS-APP\Students\cwise1795\Desktop\chandler.programmingI\Recreational\Student Selector\Student Selector\obj\Release\Student Selector.xml
+\\RHS-APP\Students\cwise1795\Desktop\chandler.programmingI\Recreational\Student Selector\Student Selector\obj\Release\Student Selector.pdb
+\\RHS-APP\Students\cwise1795\Desktop\chandler.programmingI\Recreational\Student Selector\Student Selector\bin\Release\Student Selector.exe.manifest
+\\RHS-APP\Students\cwise1795\Desktop\chandler.programmingI\Recreational\Student Selector\Student Selector\bin\Release\Student Selector.application
+\\RHS-APP\Students\cwise1795\Desktop\chandler.programmingI\Recreational\Student Selector\Student Selector\obj\Release\Student Selector.exe.manifest
+\\RHS-APP\Students\cwise1795\Desktop\chandler.programmingI\Recreational\Student Selector\Student Selector\obj\Release\Student Selector.application
