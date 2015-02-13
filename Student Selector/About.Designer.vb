@@ -30,17 +30,17 @@ Partial Class About
         '
         Me.lblProgram.AutoSize = True
         Me.lblProgram.ForeColor = System.Drawing.Color.White
-        Me.lblProgram.Location = New System.Drawing.Point(228, 9)
+        Me.lblProgram.Location = New System.Drawing.Point(240, 9)
         Me.lblProgram.Name = "lblProgram"
         Me.lblProgram.Size = New System.Drawing.Size(149, 13)
         Me.lblProgram.TabIndex = 0
-        Me.lblProgram.Text = "Student Selector v1.0.1 Alpha"
+        Me.lblProgram.Text = "Student Selector v1.0.2 Alpha"
         '
         'lblTeam
         '
         Me.lblTeam.AutoSize = True
         Me.lblTeam.ForeColor = System.Drawing.Color.White
-        Me.lblTeam.Location = New System.Drawing.Point(235, 40)
+        Me.lblTeam.Location = New System.Drawing.Point(247, 34)
         Me.lblTeam.Name = "lblTeam"
         Me.lblTeam.Size = New System.Drawing.Size(135, 13)
         Me.lblTeam.TabIndex = 1
@@ -51,7 +51,7 @@ Partial Class About
         Me.txtLiscense.BackColor = System.Drawing.Color.Blue
         Me.txtLiscense.Cursor = System.Windows.Forms.Cursors.Arrow
         Me.txtLiscense.ForeColor = System.Drawing.Color.White
-        Me.txtLiscense.Location = New System.Drawing.Point(50, 84)
+        Me.txtLiscense.Location = New System.Drawing.Point(62, 84)
         Me.txtLiscense.Multiline = True
         Me.txtLiscense.Name = "txtLiscense"
         Me.txtLiscense.ReadOnly = True
@@ -64,7 +64,7 @@ Partial Class About
         '
         Me.lblGithub.AutoSize = True
         Me.lblGithub.ForeColor = System.Drawing.Color.White
-        Me.lblGithub.Location = New System.Drawing.Point(149, 53)
+        Me.lblGithub.Location = New System.Drawing.Point(149, 59)
         Me.lblGithub.Name = "lblGithub"
         Me.lblGithub.Size = New System.Drawing.Size(330, 13)
         Me.lblGithub.TabIndex = 3
