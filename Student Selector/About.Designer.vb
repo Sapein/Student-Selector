@@ -23,6 +23,7 @@ Partial Class About
         Me.lblProgram = New System.Windows.Forms.Label
         Me.lblTeam = New System.Windows.Forms.Label
         Me.txtLiscense = New System.Windows.Forms.TextBox
+        Me.lblGithub = New System.Windows.Forms.Label
         Me.SuspendLayout()
         '
         'lblProgram
@@ -33,7 +34,7 @@ Partial Class About
         Me.lblProgram.Name = "lblProgram"
         Me.lblProgram.Size = New System.Drawing.Size(149, 13)
         Me.lblProgram.TabIndex = 0
-        Me.lblProgram.Text = "Student Selector v1.0.0 Alpha"
+        Me.lblProgram.Text = "Student Selector v1.0.1 Alpha"
         '
         'lblTeam
         '
@@ -59,12 +60,23 @@ Partial Class About
         Me.txtLiscense.Text = resources.GetString("txtLiscense.Text")
         Me.txtLiscense.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
+        'lblGithub
+        '
+        Me.lblGithub.AutoSize = True
+        Me.lblGithub.ForeColor = System.Drawing.Color.White
+        Me.lblGithub.Location = New System.Drawing.Point(149, 53)
+        Me.lblGithub.Name = "lblGithub"
+        Me.lblGithub.Size = New System.Drawing.Size(330, 13)
+        Me.lblGithub.TabIndex = 3
+        Me.lblGithub.Text = "Project Now on Github: https://github.com/Sapein/Student-Selector"
+        '
         'About
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.Blue
         Me.ClientSize = New System.Drawing.Size(613, 394)
+        Me.Controls.Add(Me.lblGithub)
         Me.Controls.Add(Me.txtLiscense)
         Me.Controls.Add(Me.lblTeam)
         Me.Controls.Add(Me.lblProgram)
@@ -77,4 +89,5 @@ Partial Class About
     Friend WithEvents lblProgram As System.Windows.Forms.Label
     Friend WithEvents lblTeam As System.Windows.Forms.Label
     Friend WithEvents txtLiscense As System.Windows.Forms.TextBox
+    Friend WithEvents lblGithub As System.Windows.Forms.Label
 End Class

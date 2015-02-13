@@ -14,7 +14,7 @@ Public Class frmMain
     End Sub
 
     Private Sub mnuModeDirectInput_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles mnuModeDirectInput.Click
-        'Checks to see what mode is active In this case Text Mode
+        'Checks to see what mode is active In this case Direct Input Mode
         mnuModeDirectInput.Checked = True
         mnuModeTextFile.Checked = False
         btnSelectFile.Hide()
